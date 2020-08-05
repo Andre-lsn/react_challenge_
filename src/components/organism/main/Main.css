@@ -1,0 +1,31 @@
+main {
+    margin-top: 9px;
+}
+
+.adicionaTarefa {
+    margin-top: 14px;
+}
+
+.adicionaTarefa:hover {
+    border-radius: 15px;
+    box-shadow:7px 5px 5px #22a396;
+}
+
+.lista {
+    margin-top: 35px;
+    background-color: #e0e0e0;
+}
+
+.collection .collection-item {
+    background-color: #fff;
+    line-height: 1.5rem;
+    padding: 10px 10px;
+    border-bottom: 1px solid #e0e0e0;
+    margin-top: 13px;
+}
+
+.collection .collection-item:hover {
+    font-size: 25px;
+}
+
+  
